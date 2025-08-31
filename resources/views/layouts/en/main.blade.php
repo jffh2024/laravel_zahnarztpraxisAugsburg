@@ -22,8 +22,8 @@
     @include('partials.en.navbar_o')
     @include('partials.en.navbar_u')
 
-    {{-- @include('partials.de.slideshow') --}}
-    {{-- @include('partials.de.warnung') --}}
+    @include('partials.de.slideshow')
+    @include('partials.de.warnung')
 
 
     <main class="container py-3">

@@ -93,9 +93,4 @@
         </div>
     </div>
     <div class="text-center mt-4 small">© 2025 Zahnarztpraxis Augsburg</div>
-    {{-- <div class="text-center mt-4 small"> <a href="{{ route('phpinfo') }}"
-            class="text-light text-decoration-none">PHPinfo</a></div> --}}
-
-
-
 </footer>
