@@ -1,4 +1,4 @@
-{{-- partials\de\slideshow.blade.php
+{{-- partials\de\slideshow.blade.php --}}
 
 <!-- Slideshow -->
 <section class="container-fluid">
@@ -45,4 +45,4 @@
         <!--Nachher-Knopf-->
     </div>
     <!--carousel slides Ende Karusell-->
-</section> --}}
+</section>

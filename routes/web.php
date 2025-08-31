@@ -37,3 +37,4 @@ Route::redirect('/', '/de/index');
 //Kontaktformular
 Route::get('/kontakt', [ContactController::class, 'create'])->name('contact.create');
 Route::post('/kontakt', [ContactController::class, 'store'])->name('contact.store');
+
